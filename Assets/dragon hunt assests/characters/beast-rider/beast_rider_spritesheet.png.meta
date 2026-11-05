@@ -1,0 +1,785 @@
+fileFormatVersion: 2
+guid: cb0d191226e1ecc47816fc5d67025f99
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1963
+        width: 265
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb40977ef7cadf4a8990fd469b765b7
+      internalID: 1885628388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1963
+        width: 266
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0aa25bfc1250346a3e2ac87e508df3
+      internalID: -1010312787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1963
+        width: 261
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652c55bec11c7a74b8fb2c037dda3dec
+      internalID: -1863067958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1963
+        width: 268
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49a84ef0fe6a6c4fa4c767315cb3e13
+      internalID: 1236214729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1637
+        width: 269
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28830cd82e2f8de42bcc1190317b5671
+      internalID: 1750243249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1636
+        width: 271
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf638bdb5acb734298f4d98ff8e8909
+      internalID: -599932123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1636
+        width: 273
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6152abfca88124a45959b130a8e41107
+      internalID: -311658025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1636
+        width: 284
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e042349d680946985485182246fb7
+      internalID: -1012507482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1311
+        width: 265
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1d72f1319abb448904bec312d862df
+      internalID: 579334769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1360
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a6eb06b51c05c4c94259b313c7c095
+      internalID: -1391535721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1311
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7819a6fdbe2504f47baa654888663773
+      internalID: 1018956435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1311
+        width: 268
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d8df0de968bba4bacb6d5a82bd0e44
+      internalID: -293354562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1311
+        width: 259
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691d2c5b7c897a5459c7120e292d0f8a
+      internalID: -784465726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 985
+        width: 284
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb68a8bf2127ea4cb8fca6a27bcbff5
+      internalID: -484202067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 984
+        width: 288
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c74b7a62e2cb74fac010fe2d06dad8
+      internalID: 1003161819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 985
+        width: 301
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961b4fcb08aefb34aa0cf01429753c0f
+      internalID: 478524717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 984
+        width: 305
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdd1b9e6810d0e40b3327d33f06cb09
+      internalID: -835668229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 659
+        width: 279
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c052696e27406684f94254627cfa3701
+      internalID: -1227529294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 659
+        width: 293
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ccea512d4fa4a44b719d09d46566c3
+      internalID: -2094942445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 659
+        width: 301
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc1cccd30ff6f74c908db5ff9fcfd5d
+      internalID: -478827799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 659
+        width: 281
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81be07dbb990b9f4ba30a38d8eb564d6
+      internalID: -898695532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 333
+        width: 264
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac0899c44c3abb44aefb2e996af1e68
+      internalID: -1850154139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 333
+        width: 330
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f7b83e82ffd49488a4cdef3919e2cc
+      internalID: 973002505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 333
+        width: 358
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86aa952bc0f42a429c8a3a02d86ef51
+      internalID: -1897279575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 333
+        width: 267
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4efced4d8990fe478ab2578d8eebbf7
+      internalID: -1515233313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 7
+        width: 271
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c057c77b4c475a4689f95333288e87c
+      internalID: 2021493187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 7
+        width: 279
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112067942e415a34f8290233ed2da9ff
+      internalID: -731879598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 7
+        width: 279
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2307af18d4ddf14a84935eb9aef0005
+      internalID: 928218148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beast_rider_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 7
+        width: 263
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e625165d29c654382d3c16442df969
+      internalID: 1969447894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      beast_rider_spritesheet_23: -1897279575
+      beast_rider_spritesheet_0: 1885628388
+      beast_rider_spritesheet_1: -1010312787
+      beast_rider_spritesheet_10: 1018956435
+      beast_rider_spritesheet_4: 1750243249
+      beast_rider_spritesheet_22: 973002505
+      beast_rider_spritesheet_2: -1863067958
+      beast_rider_spritesheet_5: -599932123
+      beast_rider_spritesheet_12: -784465726
+      beast_rider_spritesheet_15: 478524717
+      beast_rider_spritesheet_24: -1515233313
+      beast_rider_spritesheet_3: 1236214729
+      beast_rider_spritesheet_21: -1850154139
+      beast_rider_spritesheet_17: -1227529294
+      beast_rider_spritesheet_7: -1012507482
+      beast_rider_spritesheet_25: 2021493187
+      beast_rider_spritesheet_13: -484202067
+      beast_rider_spritesheet_8: 579334769
+      beast_rider_spritesheet_9: -1391535721
+      beast_rider_spritesheet_27: 928218148
+      beast_rider_spritesheet_20: -898695532
+      beast_rider_spritesheet_14: 1003161819
+      beast_rider_spritesheet_28: 1969447894
+      beast_rider_spritesheet_26: -731879598
+      beast_rider_spritesheet_19: -478827799
+      beast_rider_spritesheet_11: -293354562
+      beast_rider_spritesheet_6: -311658025
+      beast_rider_spritesheet_18: -2094942445
+      beast_rider_spritesheet_16: -835668229
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

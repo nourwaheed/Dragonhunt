@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 74c0829ef4c20654196686eb073c2d99
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1993
+        width: 310
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af14288c82fa1c54e92d6156b1953370
+      internalID: -1423288889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1993
+        width: 319
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b059ea6310edd47804ea0bbec49d48
+      internalID: 498477655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1993
+        width: 332
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026f449e0f13f814fa0ddd9073a23c7d
+      internalID: 1083013124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1993
+        width: 310
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d4197fbd721dc4cb93c2a2bef203a0
+      internalID: 1307556817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1662
+        width: 336
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dd15f1af25f2049b1191b5b51d2076
+      internalID: -1332734120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1661
+        width: 338
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2c605ffe24d05479d6528ce81e9129
+      internalID: 98521098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1661
+        width: 318
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3a994bef6724a4a9c0f0916e67c008
+      internalID: -663958720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1662
+        width: 311
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0f33e0bba7acd41a86744dc223fccb
+      internalID: -1800358827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1331
+        width: 335
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485365523a5c36145bef511abcfcab15
+      internalID: -1559945139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1331
+        width: 333
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b40422bb8a6934ea118a53070cf923
+      internalID: 1769057757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1331
+        width: 334
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648dd44f590f5974bbd3964fc345aeac
+      internalID: 412139304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1331
+        width: 307
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f3bcf1aaa5b249912bc8fe70ec0cd
+      internalID: -92584531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1000
+        width: 312
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c08fbe48a5285d47832a998dcb6c41d
+      internalID: 1860533014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1000
+        width: 287
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c30c1ddc798943802f4b1063d480f
+      internalID: -1033757999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1000
+        width: 314
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b5fc9cdaaad0945a5f073e452d9749
+      internalID: 1646787769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1000
+        width: 330
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf23c31f504e40b43ac6acbc408d3f09
+      internalID: 692122906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 669
+        width: 321
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074e43b20273a53489e0b14b6b78d35b
+      internalID: 1096673950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 669
+        width: 330
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d2a73c80b94444aa44af01c86c5b83
+      internalID: 1508125381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 669
+        width: 321
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a6b11f5135f7b428d83923c1c9514e
+      internalID: -265614346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 669
+        width: 329
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff695ba1c9ccf8d4ba95369a7afcf895
+      internalID: 1422361039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 338
+        width: 291
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2477c2e08957444ba976c8d0f7cfff5
+      internalID: -924407050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 338
+        width: 280
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f154f4533ca564d8d9fa07061a3416
+      internalID: -371733493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 338
+        width: 457
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28866a1ed8386a24eaaefc0eadc31fda
+      internalID: -1967915493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 338
+        width: 309
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689aabee2e3b55743ac8159f9385f014
+      internalID: 75883946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 274
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d991d5956bbb3d04e8ff4d8e18cbc8e5
+      internalID: -79677144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 7
+        width: 312
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e366a89d3b84ac4bbb0e3dc4c7c2339
+      internalID: -1742038946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 7
+        width: 312
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e2f18e3f8b75e4f8cfd6b9498811dd
+      internalID: 985003788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_riding_shadow_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 7
+        width: 318
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb10a82b53320e84b853c73d65f75acf
+      internalID: -1873398336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      erik_riding_shadow_spritesheet_19: 1422361039
+      erik_riding_shadow_spritesheet_7: -1800358827
+      erik_riding_shadow_spritesheet_26: 985003788
+      erik_riding_shadow_spritesheet_16: 1096673950
+      erik_riding_shadow_spritesheet_12: 1860533014
+      erik_riding_shadow_spritesheet_24: -79677144
+      erik_riding_shadow_spritesheet_1: 498477655
+      erik_riding_shadow_spritesheet_4: -1332734120
+      erik_riding_shadow_spritesheet_8: -1559945139
+      erik_riding_shadow_spritesheet_5: 98521098
+      erik_riding_shadow_spritesheet_6: -663958720
+      erik_riding_shadow_spritesheet_14: 1646787769
+      erik_riding_shadow_spritesheet_10: 412139304
+      erik_riding_shadow_spritesheet_3: 1307556817
+      erik_riding_shadow_spritesheet_18: -265614346
+      erik_riding_shadow_spritesheet_21: -371733493
+      erik_riding_shadow_spritesheet_25: -1742038946
+      erik_riding_shadow_spritesheet_0: -1423288889
+      erik_riding_shadow_spritesheet_11: -92584531
+      erik_riding_shadow_spritesheet_15: 692122906
+      erik_riding_shadow_spritesheet_20: -924407050
+      erik_riding_shadow_spritesheet_22: -1967915493
+      erik_riding_shadow_spritesheet_23: 75883946
+      erik_riding_shadow_spritesheet_17: 1508125381
+      erik_riding_shadow_spritesheet_2: 1083013124
+      erik_riding_shadow_spritesheet_9: 1769057757
+      erik_riding_shadow_spritesheet_27: -1873398336
+      erik_riding_shadow_spritesheet_13: -1033757999
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,961 @@
+fileFormatVersion: 2
+guid: d210f728a5b76d943b5b24a0cd7ed993
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1244
+        width: 182
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc067a35e0022204bbdbe0404bc73c48
+      internalID: 1875239529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1244
+        width: 182
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0954b9a0a1135f44285c04639fdb09d0
+      internalID: 934189241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1244
+        width: 179
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a08097428cb834e94af62c8659b220
+      internalID: -1979380344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1244
+        width: 178
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31038948a4a09444a14c53230921763
+      internalID: -781884410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1038
+        width: 213
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296604e11adc1224aa5425b20811f8fd
+      internalID: 1437780769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1038
+        width: 220
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef6f6abaaa1a194787fb6d1a2b78303
+      internalID: 2001517390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1038
+        width: 211
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f68bd67102ef746a9b1fa148a6f071
+      internalID: -1761223278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1038
+        width: 218
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aafa7d172eb7674c806376f9eb3a881
+      internalID: 424995596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 832
+        width: 196
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d854e017221284d85fc62712637646
+      internalID: 211035511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 832
+        width: 228
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e6336a9c371048991ae5bb13f6de2
+      internalID: 1588284873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 832
+        width: 180
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c850d7134120c4d488fd1dffd4cb7c1e
+      internalID: -1551137235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 898
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233e1ec8bd98f1d4099fd59bdcc2a25c
+      internalID: -448316444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 832
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07013cf417a5684a8eb141f035471e1
+      internalID: 1268680500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 849
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cf337f483b4a940903f7eab7116b16
+      internalID: 1712434451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 626
+        width: 200
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6dc5288e717084eaf2a98c3b41b97e
+      internalID: 1190419659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 626
+        width: 180
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bcf84fd9bd9c14aa64a1d43c109b8d
+      internalID: 172769439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 626
+        width: 195
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87ad12482f2453469450df51be49b1f
+      internalID: -942864146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 626
+        width: 216
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ada2321e9b7b54584955153341b1c5
+      internalID: -2032968205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 420
+        width: 194
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44a251365513b148ba4897624e7929a
+      internalID: -1183364870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 420
+        width: 200
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ca86aae7e1bf545a4e306d538ace89
+      internalID: 2143515622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 420
+        width: 194
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e069dca03ba924188d794d7b7bdfdc
+      internalID: -877067268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 420
+        width: 192
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d309fd7f2033f749b247797d6b1a7a8
+      internalID: -1797227833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 214
+        width: 201
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c7a23fcd7c49d4a9b30d10fbc70026
+      internalID: 632670050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 214
+        width: 189
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8044b45ab3a9b21438701034cb50cb1d
+      internalID: -1888705512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 214
+        width: 316
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aa4f8a112372f4ebef3080ae602f2d
+      internalID: 1595661692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 358
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a9224910281be4c87c4ba6d968ed4e
+      internalID: -934512558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 214
+        width: 173
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ee3354909a6c1499e8cc68fa2b0c7a
+      internalID: 323532359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 168
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5040d669fcb14da479785e2e6a35a2e9
+      internalID: -967512437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 181
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170200cd04ea86b45a8ddc87735ab3f5
+      internalID: -1219880069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 173
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fb65bed4e758b41b8c5039ba690216
+      internalID: -220182065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 173
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ab7f4f28f48ff4db368b021a94daf6
+      internalID: -1598413580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 8
+        width: 166
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f4c2e0830db1049a418adeeb518f02
+      internalID: -2053140139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 150
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbca51736caf63644b8ed62bdff1866b
+      internalID: 1056235516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 164
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4f8aafc40ba5b499dfe1f6e1155793
+      internalID: 1032780210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 158
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa63a17694bf874ca3d66a39c52ce13
+      internalID: 763220463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 8
+        width: 198
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eda3235070c33e469e7a33486a8e320
+      internalID: -1316383118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rare_dragon_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 8
+        width: 198
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cc05ed592be89408ccd09f91cf862a
+      internalID: 1214373937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      rare_dragon_spritesheet_24: 1595661692
+      rare_dragon_spritesheet_4: 1437780769
+      rare_dragon_spritesheet_26: 323532359
+      rare_dragon_spritesheet_3: -781884410
+      rare_dragon_spritesheet_23: -1888705512
+      rare_dragon_spritesheet_16: -942864146
+      rare_dragon_spritesheet_32: 1056235516
+      rare_dragon_spritesheet_11: -448316444
+      rare_dragon_spritesheet_17: -2032968205
+      rare_dragon_spritesheet_18: -1183364870
+      rare_dragon_spritesheet_0: 1875239529
+      rare_dragon_spritesheet_14: 1190419659
+      rare_dragon_spritesheet_20: -877067268
+      rare_dragon_spritesheet_22: 632670050
+      rare_dragon_spritesheet_30: -1598413580
+      rare_dragon_spritesheet_6: -1761223278
+      rare_dragon_spritesheet_29: -220182065
+      rare_dragon_spritesheet_9: 1588284873
+      rare_dragon_spritesheet_31: -2053140139
+      rare_dragon_spritesheet_36: 1214373937
+      rare_dragon_spritesheet_7: 424995596
+      rare_dragon_spritesheet_27: -967512437
+      rare_dragon_spritesheet_2: -1979380344
+      rare_dragon_spritesheet_8: 211035511
+      rare_dragon_spritesheet_28: -1219880069
+      rare_dragon_spritesheet_5: 2001517390
+      rare_dragon_spritesheet_34: 763220463
+      rare_dragon_spritesheet_19: 2143515622
+      rare_dragon_spritesheet_13: 1712434451
+      rare_dragon_spritesheet_25: -934512558
+      rare_dragon_spritesheet_10: -1551137235
+      rare_dragon_spritesheet_1: 934189241
+      rare_dragon_spritesheet_12: 1268680500
+      rare_dragon_spritesheet_33: 1032780210
+      rare_dragon_spritesheet_35: -1316383118
+      rare_dragon_spritesheet_15: 172769439
+      rare_dragon_spritesheet_21: -1797227833
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
